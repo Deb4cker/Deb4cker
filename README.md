@@ -26,7 +26,7 @@ A project created for a technical hiring challenge. It's an MVC application with
 #### 65DSD-T2-Threads
 A project for a Distributed Systems course in the 6th semester. The context was to develop a traffic simulation on a road network represented by a numerical matrix. The goal was to apply mutual exclusion rules and prevent deadlock and starvation. Each car had to follow the other, occupying each cell of the matrix individually until reaching the end of the road. Intersections required cars to decide the path to take to gain possession of all necessary cells, allowing one car to pass at a time. Check out the GIF below for a clearer view of how it works:
 
-![Traffic Simulation]([link_to_gif](https://github.com/Deb4cker/MyReadMeAssets/blob/main/Images/simulation_op.gif))
+![Traffic Simulation](https://github.com/Deb4cker/MyReadMeAssets/blob/main/Images/simulation_op.gif)
 
 #### Yota-Backend
 An ASP.NET Core API designed to serve a music streaming app. The app, Yota, was developed for a Mobile Development course using .NET MAUI. Due to time constraints, the API wasn't used in the final project, and we prioritized using Deezer's API for convenience. However, it still serves as a reference for creating a CRUD scenario with the following model:
