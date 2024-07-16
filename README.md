@@ -36,7 +36,7 @@ An ASP.NET Core API designed to serve a music streaming app. The app, [Yota](htt
 #### Motifs-Problem ([Repo](https://github.com/Deb4cker/Motifs-Problem))
 A university project where we created a linear programming solution for the motifs problem. The goal was to find motifs with the highest number of possible connections. A motif is a set of same-colored nodes in a graph. We generated random graphs with different colors and connections and searched for subgraphs with the highest number of possible connections using breadth-first and depth-first search. We used Python to handle data structures more easily.
 
-#### 65 PINIII FruFruFruit ([Model Training and API](https://github.com/Deb4cker/65PINIII-FruFruFruit) | [UI](https://github.com/Deb4cker/65PIN3-FruFruFruit-ui))  
+#### 65 PINIII FruFruFruit ( [Model Training and API](https://github.com/Deb4cker/65PINIII-FruFruFruit) | [UI](https://github.com/Deb4cker/65PIN3-FruFruFruit-ui) )  
 The latest integrative project. We received a dataset with approximately 800 data points of various fruit species and trained two different algorithms: Random Forest and Decision Tree. After training, we created a REST API with one endpoint that receives a CSV of some fruits and returns them classified. Users can choose which model to use for classification. We gathered data on the performance of the different models and obtained the following confusion matrices:
 
 ![Confusion Matrix](https://github.com/Deb4cker/MyReadMeAssets/blob/main/Images/confusion_matrix.png)
