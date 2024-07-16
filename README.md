@@ -17,10 +17,10 @@ I have a solid foundation in logic programming and currently tutor in the Distri
 
 ### Projects I'd Like You to Check Out 🌟
 
-#### Luminous ([ui](https://github.com/LuizFJP/luminous-ui) | [Back-end](https://github.com/LuizFJP/luminous-backend) )
+#### Luminous ( [ui](https://github.com/LuizFJP/luminous-ui) | [Back-end](https://github.com/LuizFJP/luminous-backend) )
 A web application built with Spring and React for a university integrative project with three other colleagues. We received a ready-made requirements documentation and had to build the designed application. The application predicts energy costs based on the usage times of household appliances registered by the user. We used some external APIs to get tariff flag values and reports from energy concessionaires.
 
-#### ConsultViaCEP
+#### ConsultViaCEP ([Repo](https://github.com/Deb4cker/ConsultViaCEP))
 A project created for a technical hiring challenge. It's an MVC application with Spring Boot and Java Swing that queries the ViaCep API to get details about a city.
 
 #### 65DSD-T2-Threads
