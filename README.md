@@ -29,7 +29,7 @@ A project for a Distributed Systems course in the 6th semester. The context was 
 ![Traffic Simulation](https://github.com/Deb4cker/MyReadMeAssets/blob/main/Images/simulation_op.gif)
 
 #### Yota-Backend ([Repo](https://github.com/Deb4cker/Yota-Backend))
-An ASP.NET Core API designed to serve a music streaming app. The app, [Yota](https://github.com/Deb4cker/Yota), was developed for a Mobile Development course using .NET MAUI. Due to time constraints, the API wasn't used in the final project, and we prioritized using Deezer's API for convenience. However, it still serves as a reference for creating a CRUD scenario with the following model:
+An ASP.NET Core API designed to serve a music streaming app. The app, [Yota](https://github.com/Deb4cker/Yota), was developed for the Mobile Development college subject using .NET MAUI. Due to time constraints, the API wasn't used in the final project, and we prioritized using Deezer's API for convenience. However, it still serves as a reference for creating a CRUD scenario with the following model:
 
 ![Model Diagram](https://github.com/Deb4cker/MyReadMeAssets/blob/main/Images/yota_diagram.png)
 
