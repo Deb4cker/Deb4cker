@@ -1,32 +1,42 @@
 <div align="center">
 
 # Hi, I'm Nicolas Debacher 👋
-### Software Engineer | Back-end & Distributed Systems Enthusiast
+### Software Engineer | Freelance Back-end & Full-stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-debacher)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deb4cker)
 [![Email](https://img.shields.io/badge/Email-ndebacher%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndebacher@gmail.com)
 
 <p align="center">
-  Graduated in <b>Software Engineering (UDESC)</b> with hands-on experience building scalable back-end solutions, 
-  microservices, and modern web architectures. Focused on clean code, SOLID principles, high performance, and distributed systems.
+  Software Engineer delivering high-performance back-end architectures, distributed microservices, 
+  and custom web solutions. Specialized in .NET, Node.js, and cloud integrations.
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 **Education:** B.S. in Software Engineering from **Santa Catarina State University (UDESC)**
-- 💼 **Experience:** Worked on production-grade microservices and enterprise migrations at **EloGroup** and **Egadnet**
-- ⚙️ **Core Stack:** C# / .NET, ASP.NET Core, Node.js (NestJS), Java, SQL Server, and PostgreSQL
-- 🔬 **Academic Background:** Former Teaching Assistant in Algorithms, Data Structures, and Distributed Systems, with a published scientific paper at ENIAC
-- 📍 **Location:** Florianópolis, Santa Catarina, Brazil
+- **Current Focus:** Freelance Software Engineer available for contract work, legacy modernization, and building end-to-end back-end systems.
+- **Enterprise Track Record:** Hands-on experience developing enterprise platforms, optimizing critical production workflows (~30% latency reduction), and migrating legacy software to modern web architectures (.NET, NestJS, React, SQL Server).
+- **Architecture & Reliability:** Strong background in event-driven microservices with RabbitMQ, AWS services, automated regression testing, and CI/CD pipelines.
+- **Core Stack:** C# / .NET, ASP.NET Core, Node.js (NestJS), Java, PostgreSQL, and SQL Server.
+- **Location:** Florianópolis, Santa Catarina, Brazil (Available for remote contracts worldwide).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deb4cker&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deb4cker&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deb4cker&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+---
+
+### Tech Stack & Tools
 
 <p align="left">
   <b>Languages:</b><br/>
@@ -65,40 +75,27 @@
 
 ---
 
-### 🚀 Highlighted Projects & Research
+### Selected Projects & Research
 
-#### 🔍 [VIC - VPL Implementation Checker](https://github.com/Deb4cker) *(Capstone Project)*
-- Open-source tool integrated with Moodle's Virtual Programming Lab (VPL) to automate structural grading of Java source code based on UMLet class diagrams.
-- Leveraged **Java Reflection** to evaluate student code against generated class structures, providing real-time feedback.
-- Achieved a **SUS score of 87.9/100 ("Excellent")** with ~96% student satisfaction rate across test groups.
+#### [VIC - VPL Implementation Checker](https://github.com/Deb4cker) (Capstone Project)
+- Open-source automated grading tool integrated with Moodle VPL for Java source code evaluation based on UMLet class diagrams.
+- Applied Java Reflection to structurally inspect submissions and output instant grading feedback.
+- Tested across student cohorts achieving an 87.9/100 SUS score ("Excellent") and ~96% positive review rate.
 
-#### 🚦 [65DSD-T2-Threads](https://github.com/Deb4cker/65DSD-T2-Threads)
-- Multithreaded traffic simulation on a matrix road network implementing strict mutual exclusion, deadlock prevention, and starvation avoidance.
+#### [65DSD-T2-Threads](https://github.com/Deb4cker/65DSD-T2-Threads)
+- Multithreaded traffic simulation over a grid road network with critical section synchronization, starvation prevention, and deadlock handling.
 <p align="center">
   <img src="https://github.com/Deb4cker/MyReadMeAssets/blob/main/Images/simulation_op.gif" width="550" alt="Traffic Simulation" />
 </p>
 
-#### ⚡ [Luminous](https://github.com/LuizFJP/luminous-ui)
-- Energy consumption forecasting platform built with **Spring Boot** and **React**, consuming energy concessionaire APIs and tariff flags to project household utility costs.
+#### [Luminous](https://github.com/LuizFJP/luminous-ui)
+- Energy prediction and appliance consumption manager built with Spring Boot and React, consuming external tariff flag APIs.
 
-#### 🍎 [FruFruFruit Classifier](https://github.com/Deb4cker/65PINIII-FruFruFruit)
-- Comparative machine learning project evaluating Random Forest vs. Decision Trees over a custom dataset of 800+ fruit samples, exposed via a REST API.
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deb4cker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nicolas's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb4cker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deb4cker&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+#### [FruFruFruit Classifier](https://github.com/Deb4cker/65PINIII-FruFruFruit)
+- Machine learning classification comparing Random Forest vs. Decision Trees on tabular data, served through a RESTful API.
 
 ---
 
 <div align="center">
-  <sub>Let's connect! Feel free to reach out via <a href="mailto:ndebacher@gmail.com">ndebacher@gmail.com</a>.</sub>
+  <sub>Open to freelance opportunities and technical collaborations. Get in touch at <a href="mailto:ndebacher@gmail.com">ndebacher@gmail.com</a>.</sub>
 </div>
